@@ -1,2 +1,2 @@
 # DevOps_Class_Project
-Repo untuk Latihan DevOps
+Repositories untuk Latihan DevOps
